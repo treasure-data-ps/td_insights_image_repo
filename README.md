@@ -3,11 +3,13 @@
 | Icon| URL |
 |----------|----------|
 | <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-logo-icon.png" width="75" height="50">  | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-logo-icon.png | 
+| <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-horizontal-logo.png">  | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-horizontal-logo.png | 
+| <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-white-horizontal-logo.png">  | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-white-horizontal-logo.png | 
+| <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-white-icon.png" width="100" height="100">  | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/td-white-icon.png | 
 | <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/cash-in-hand.png" width="100" height="100">  | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/cash-in-hand.png | 
 | <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/shopping-cart-promotion.png" width="100" height="100"> | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/shopping-cart-promotion.png| 
 | <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/receipt-dollar.png" width="100" height="100"> | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/receipt-dollar.png|
 | <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/world2fly_500x292.png" width="75" height="50"> | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/world2fly_500x292.png|
 | <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/world2meet.svg" width="75" height="50"> | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/world2meet.svg|
 | <img src="https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/2000_icarion.jpeg" width="75" height="50"> | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/2000_icarion.jpeg|
-
 
