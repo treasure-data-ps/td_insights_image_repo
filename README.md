@@ -4,4 +4,4 @@
 |----------|----------|
 | ![Alt text](https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/cash-in-hand.png)  | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/cash-in-hand.png | 
 | ![Alt text](https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/shopping-cart-promotion.png) | https://github.com/treasure-data-ps/td_insights_image_repo/blob/main/shopping-cart-promotion.png| 
-
+| <img src="https://example.com/image.png" width="100" height="100"> |
